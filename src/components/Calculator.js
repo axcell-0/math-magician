@@ -51,7 +51,7 @@ function Calculator() {
         </div>
 
         <div className="flex items-stretch bg-[#c8c8c8] h-20 mb-4">
-          {renderButton('0', '0', 'bg-gray-800', 'w-52')}
+          {renderButton('0', '0', 'bg-gray-800 w-52')}
           {renderButton('.', '.', 'bg-gray-800')}
           {renderButton('=', '=', 'bg-orange-500')}
         </div>
