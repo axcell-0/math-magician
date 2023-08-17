@@ -14,7 +14,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -32,7 +31,7 @@
 
 
 # math-magician-projects
-This project is math-magician-projects microvers which will be used for learning in the microverse. No complex codind is required for this exercise. The goal is to master all of the tools and best practices learned in previous steps. They will be used in all Microverse projects and most likely in future jobs as well, so it is important to know!.
+This project is math-magician-projects Microverse which will be used for learning in the microverse. No complex codind is required for this exercise. The goal is to master all of the tools and best practices learned in previous steps. They will be used in all Microverse projects and most likely in future jobs as well, so it is important to know!.
 1- react
 2- css
 3- linters
@@ -69,10 +68,6 @@ Visual Studia Code, HTML/JavaScript linters, ES6, Webpack, API.
 - **[JavaScript Modules]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-# LIVE DEMO 
-
-- [] (coming soon)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
