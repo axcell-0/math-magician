@@ -31,7 +31,7 @@
 
 
 # math-magician-projects
-This project is math-magician-projects microvers which will be used for learning in the microverse. No complex codind is required for this exercise. The goal is to master all of the tools and best practices learned in previous steps. They will be used in all Microverse projects and most likely in future jobs as well, so it is important to know!.
+This project is math-magician-projects Microverse which will be used for learning in the microverse. No complex codind is required for this exercise. The goal is to master all of the tools and best practices learned in previous steps. They will be used in all Microverse projects and most likely in future jobs as well, so it is important to know!.
 1- react
 2- css
 3- linters
