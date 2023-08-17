@@ -70,10 +70,6 @@ Visual Studia Code, HTML/JavaScript linters, ES6, Webpack, API.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# LIVE DEMO 
-
-- [] (coming soon)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
